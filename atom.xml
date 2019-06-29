@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Momo</title>
+  <title>だんご~~MoM</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-06-28T14:34:13.433Z</updated>
+  <updated>2019-06-29T11:00:40.063Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第二个博客？</title>
-    <link href="/2019/06/28/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
-    <id>/2019/06/28/第二个博客？/</id>
-    <published>2019-06-28T14:33:36.000Z</published>
-    <updated>2019-06-28T14:34:13.433Z</updated>
+    <title>hello world</title>
+    <link href="/2019/06/29/hello-world/"/>
+    <id>/2019/06/29/hello-world/</id>
+    <published>2019-06-29T10:58:03.000Z</published>
+    <updated>2019-06-29T11:00:40.063Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,13 @@
       
         
         
-          &lt;h2 id=&quot;讲道理，很难受，测试一下延迟吧&quot;&gt;&lt;a href=&quot;#讲道理，很难受，测试一下延迟吧&quot; class=&quot;headerlink&quot; title=&quot;讲道理，很难受，测试一下延迟吧&quot;&gt;&lt;/a&gt;讲道理，很难受，测试一下延迟吧&lt;/h2&gt;&lt;img
+          &lt;h3 id=&quot;传统的入门仪式&quot;&gt;&lt;a href=&quot;#传统的入门仪式&quot; class=&quot;headerlink&quot; title=&quot;传统的入门仪式~~&quot;&gt;&lt;/a&gt;传统的入门仪式~~&lt;/h3&gt;&lt;a
         
       
     
     </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
